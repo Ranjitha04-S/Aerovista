@@ -162,8 +162,3 @@ npm start
 - Mobile app using React Native
 
 ---
-
-## 👩‍💻 Developer
-
-**Ranjitha S** — Full Stack Developer
-[@Ranjitha04-S](https://github.com/Ranjitha04-S)
